@@ -1,2 +1,2 @@
-# Demo-Bank-System
-Demo-Bank-System for some task
+# Demo-task
+Demo projects for some task
